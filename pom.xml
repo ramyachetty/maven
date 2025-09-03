@@ -5,7 +5,7 @@
   <artifactId>java-project2</artifactId>
   <packaging>jar</packaging>
   <version>1.0-SNAPSHOT</version>
-  <name>java-project2</name>
+  <name>java-project3</name>
   <url>http://maven.apache.org</url>
   <dependencies>
     <dependency>
@@ -24,3 +24,4 @@
     </properties>
 
 </project>
+
