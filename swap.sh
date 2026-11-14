@@ -1,5 +1,5 @@
 #!/bin/bash
-a=10
+a=25
 b=20
 echo "before swapping:"
 echo "a=$a b=$b"
