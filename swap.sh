@@ -1,7 +1,7 @@
 #!/bin/bash
-echo "enter a value "
+echo "enter a value1 "
 read a
-echo "enter b value"
+echo "enter b value2 "
 read b
 
 c=$a
