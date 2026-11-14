@@ -7,5 +7,5 @@ read b
 c=$a
 a=$b
 b=$c
-echo "$a,$b"
+echo "$a and $b"
 
