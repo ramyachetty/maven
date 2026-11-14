@@ -1,5 +1,5 @@
 #!/bin/bash
-echo "hello,please enter ur age "
+echo "hello! please enter your age "
 read age
 if [ $age -lt 18 ]
 then
