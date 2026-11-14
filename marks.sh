@@ -1,7 +1,7 @@
 #!/bin/bash
 echo "hi,please enter ur percentage to know ur grade :)"
 read  percentage
-if [ $percentage -gt 100 ]
+if [ $percentage -gt 100 ] y
 then 
 	echo "it cannot be grater than 100"
 elif [ $percentage -ge 92 ]
